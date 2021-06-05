@@ -1,4 +1,4 @@
-Project Title: Streaming Data with AWS Services
+##  Streaming Data with AWS Services
 
 Goal : Set a data pipeline to consume real-time data, process, store and query it. 
 
