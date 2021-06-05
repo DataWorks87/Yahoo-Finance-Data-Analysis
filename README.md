@@ -8,5 +8,7 @@ In order to consume data I have set a Lambda function which also transforms the 
 
 A screenshot of AWS Kinesis configuration is provided below:
 
-![kinesis_config](/Users/oleseagalusca/Desktop/TU_Big Data/Project3 /Project03/assets/kinesis_config.png)
+![kinesis_config](https://user-images.githubusercontent.com/64224466/120900933-b0e70b80-c605-11eb-9e1f-d1b50b0c1a2c.png)
+![screenshot_of_s3_bucket](https://user-images.githubusercontent.com/64224466/120900938-bcd2cd80-c605-11eb-96f6-a99187d7a4bc.png)
+
 
